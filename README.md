@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/jamesdssg/portfolio_demo/blob/master/images/image5.jpeg)
 
 <!-- Add your details -->
 
@@ -28,6 +28,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
+<a id='experience'></a>
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
