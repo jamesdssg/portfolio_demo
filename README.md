@@ -28,7 +28,6 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-<a id='experience'></a>
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
